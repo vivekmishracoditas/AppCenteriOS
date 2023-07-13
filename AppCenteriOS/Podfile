@@ -6,5 +6,6 @@ target 'AppCenteriOS' do
   use_frameworks!
 
   # Pods for AppCenteriOS
+  pod 'AppCenter'
 
 end
